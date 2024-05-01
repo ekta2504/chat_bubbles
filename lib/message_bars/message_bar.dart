@@ -166,7 +166,7 @@ class MessageBar extends StatelessWidget {
                     padding: const EdgeInsets.only(left: 16),
                     child: InkWell(
                       child: Icon(
-                        Icons.send,
+                        Icons.arrow_upward,
                         color: sendButtonColor,
                         size: 24,
                       ),
